@@ -31,7 +31,7 @@ pipeline {
 
         stage('Finish') {
             steps {
-                echo 'Jenkins pipeline completed successfully'
+                echo 'Your Jenkins pipeline completed successfully'
             }
         }
     }
